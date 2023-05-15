@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Dragon Ball 1",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "abc95ffe-ecce-42bf-9957-088cfbb4b650",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 2",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "34c8683a-dded-45c4-92a0-c1fb380ee93f",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 3",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "fadbf629-be3a-423e-8581-a27d48a27972",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 4",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "e696ecbc-4f3e-4ae9-af63-bb761a359d87",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 5",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "fa9a972d-a561-4d13-93c8-82cdfb8e8734",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 6",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "4e7c78cd-32f4-4a17-ba34-2ee74493c19c",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 7",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "1f6b78cf-2096-45f8-8f7e-cb6f336664e0",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 8",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "3a86b251-ed86-4329-b58d-77fde94532e6",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 9",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "c88556a4-4972-4c0e-9d20-66bfc69b86c0",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 10",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "ac5e36fa-f99f-4cc5-9933-06d000409848",
+    "status": true
+  },
+  {
+    "title": "Dragon Ball 11",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": "1264e059-ab3c-49a2-985d-3423db00ba5f",
+    "status": true
+  }
+]
